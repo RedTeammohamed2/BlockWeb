@@ -57,7 +57,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*youporn.com*",
+            "urlFilter": "*redteam.com*",
             "resourceTypes": [
                 "main_frame"
             ]
