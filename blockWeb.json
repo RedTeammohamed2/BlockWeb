@@ -57,7 +57,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*redteam.com*",
+            "urlFilter": "*xhamster.com*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -73,7 +73,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*redtube.com*",
+            "urlFilter": "*youporn.com*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -89,7 +89,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*tube8.com*",
+            "urlFilter": "*redtube.com*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -105,7 +105,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*spankbang.com*",
+            "urlFilter": "*tube8.com*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -121,7 +121,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*brazzers.com*",
+            "urlFilter": "*spankbang.com*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -137,7 +137,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*pornhd.com*",
+            "urlFilter": "*brazzers.com*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -169,7 +169,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*hqporner.com*",
+            "urlFilter": "*reddit.com/r/nsfw*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -185,7 +185,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*youjizz.com*",
+            "urlFilter": "*reddit.com/r/nsfw2*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -201,7 +201,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*porntube.com*",
+            "urlFilter": "*reddit.com/r/nsfw_gif*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -217,7 +217,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*xtube.com*",
+            "urlFilter": "*reddit.com/r/nsfw_videos*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -233,7 +233,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*xhamster.com*",
+            "urlFilter": "*reddit.com/r/nsfw_hardcore*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -249,7 +249,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*fapdu.com*",
+            "urlFilter": "*reddit.com/r/nsfw_amateurs*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -265,7 +265,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*sunporno.com*",
+            "urlFilter": "*reddit.com/r/nsfw_teens*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -281,7 +281,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*empflix.com*",
+            "urlFilter": "*reddit.com/r/nsfw_gifs*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -297,7 +297,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*hardsextube.com*",
+            "urlFilter": "*reddit.com/r/NSFW_GIF*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -313,7 +313,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*drtuber.com*",
+            "urlFilter": "*reddit.com/r/NSFW_HTML5*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -329,7 +329,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*porn.com*",
+            "urlFilter": "*reddit.com/r/nsfw_gif_sets*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -345,7 +345,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*nuvid.com*",
+            "urlFilter": "*reddit.com/r/nsfw_hd*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -361,7 +361,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*pornoxo.com*",
+            "urlFilter": "*reddit.com/r/nsfw_hd_videos*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -377,7 +377,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*redtube.xxx*",
+            "urlFilter": "*reddit.com/r/nsfw_hd_gifs*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -393,7 +393,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*pornburst.com*",
+            "urlFilter": "*reddit.com/r/nsfw_html5*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -409,7 +409,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*pornsocket.com*",
+            "urlFilter": "*reddit.com/r/nsfw_hd_html5*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -425,7 +425,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*pornjam.com*",
+            "urlFilter": "*reddit.com/r/nsfw_hd_gif*",
             "resourceTypes": [
                 "main_frame"
             ]
@@ -441,39 +441,7 @@
             }
         },
         "condition": {
-            "urlFilter": "*xtapes.to*",
-            "resourceTypes": [
-                "main_frame"
-            ]
-        }
-    },
-    {
-        "id": 29,
-        "priority": 1,
-        "action": {
-            "type": "redirect",
-            "redirect": {
-                "extensionPath": "/pages/blocked.html"
-            }
-        },
-        "condition": {
-            "urlFilter": "*pornfun.com*",
-            "resourceTypes": [
-                "main_frame"
-            ]
-        }
-    },
-    {
-        "id": 30,
-        "priority": 1,
-        "action": {
-            "type": "redirect",
-            "redirect": {
-                "extensionPath": "/pages/blocked.html"
-            }
-        },
-        "condition": {
-            "urlFilter": "*pornwhite.com*",
+            "urlFilter": "*reddit.com/r/nsfw_hd_gif_sets*",
             "resourceTypes": [
                 "main_frame"
             ]
